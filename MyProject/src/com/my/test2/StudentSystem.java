@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /*
- * 简单的学生管理系统111111
+ * 简单的学生管理系统1111
  */
 
 public class StudentSystem {
