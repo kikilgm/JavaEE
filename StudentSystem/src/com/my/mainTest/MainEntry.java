@@ -2,7 +2,7 @@ package com.my.mainTest;
 import java.util.Scanner;
 
 import com.my.Controller.StudentController;
-
+//...
 public class MainEntry {
 	public static void main(String[] args) {
          Scanner scanner=new Scanner(System.in);
